@@ -1,0 +1,32 @@
+# Ignore build directories
+target/
+build/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+
+# Ignore Maven and Gradle dependencies (if used)
+.mvn/
+.gradle/
+
+# Ignore system-specific files
+*.log
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code project files
+.vscode/
+
+# Ignore personal environment files
+*.env
+
+# Ignore test coverage reports
+coverage/
